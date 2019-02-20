@@ -7,3 +7,9 @@ body{
     font-family: 'Allura';
     background-color: rgb(26, 25, 25);
 }
+h1{
+    text-align: center;
+}
+  h2{
+      text-align: center;
+  }  
