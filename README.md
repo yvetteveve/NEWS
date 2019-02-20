@@ -18,7 +18,7 @@ Users can additionally click cnn, or bbc or any other option on the navigation b
 Known Bugs
 There are no known bugs yet.
 
-## Technologies Used
+## Technologies Used:
 Python
 Git Hub
 Terminal
