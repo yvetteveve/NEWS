@@ -1,6 +1,6 @@
 ##News Highlight
 News Highlight is a web application that helps busy people to catch up on the latest news, February 18th 2019
-By YVETTE UMUBYEYI.
+##By YVETTE UMUBYEYI.
 ##Description
 News Highlight is a web application that helps busy people to catch up on the latest news.The website has the home page, that has a list of all sources of news sorted in categories. A user will have to click on Read Article on a specific source to view artciles. When the user gets to the article he/she can be able to get on the live site of that particular article.
 
