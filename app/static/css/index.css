@@ -1,0 +1,9 @@
+body{
+    background-color: skyblue;
+}
+
+.heading {
+    text-align: center;
+    font-family: 'Allura';
+    background-color: #222;
+}
