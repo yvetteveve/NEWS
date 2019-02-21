@@ -1,4 +1,4 @@
-## News Highlight
+## NewsHighlight
 News Highlight is a web application that helps busy people to catch up on the latest news, February 20th 2019
 ##By YVETTE UMUBYEYI.
 ##Description
