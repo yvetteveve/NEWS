@@ -4,12 +4,12 @@ News Highlight is a web application that helps busy people to catch up on the la
 ## Description
 News Highlight is a web application that helps busy people to catch up on the latest news.The website has the home page, that has a list of all sources of news sorted in categories. A user will have to click on Read Article on a specific source to view artciles. When the user gets to the article he/she can be able to get on the live site of that particular article.
 
-##Installation Requirements:
+## Installation Requirements:
 Python3.6
 Pip
 Virtual
 flask
-##App Specifications
+## App Specifications
 (SPECs)The following is what my program should handle:
 The home page allows users to see various news sources sorted based on categories and select their preference.
 Once selected, a list of all articles for that news source with image description and time of posting article is shown.
@@ -22,8 +22,8 @@ There are no known bugs yet.
 Python
 Git Hub
 Terminal
-##Support and contact details:
-If needed contact me on: E-mail:yvetteumubyeyi@gmail.com Phone:0782237885.
+## Support and contact details:
+If need contact me on: E-mail:yvetteumubyeyi@gmail.com Phone:0782237885.
 
-##License
+## License
 MIT Copyright (c) 2019 YVETTE UMUBYEYI.
