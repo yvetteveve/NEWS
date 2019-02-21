@@ -7,7 +7,7 @@ News Highlight is a web application that helps busy people to catch up on the la
 ##Installation Requirements:
 Python3.6
 Pip
-Virtualenv
+Virtual
 flask
 ##App Specifications
 (SPECs)The following is what my program should handle:
