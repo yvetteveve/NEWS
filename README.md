@@ -26,4 +26,4 @@ Terminal
 If needed contact me on: E-mail:yvetteumubyeyi@gmail.com Phone:0782237885.
 
 ##License
-MIT Copyright (c) 2019 YVETTE UMUBYEYI
+MIT Copyright (c) 2019 YVETTE UMUBYEYI.
